@@ -1,3 +1,3 @@
-# Git
+# GitHub
 
-This is an introduction to git and github.
+This is an introduction to GitHub.
